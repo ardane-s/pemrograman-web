@@ -1,0 +1,37 @@
+<?php 
+    session_start();
+    include_once('prak1.php');
+    echo "<hr>";
+    include_once('prak2.php');
+    echo "<hr>";
+    include_once('prak3.php');
+    echo "<hr>";
+    include_once('kondisi1.php');
+    echo "<hr>";
+    include_once('kondisi2.php');
+    echo "<hr>";
+    include_once('kondisi3.php');
+    echo "<hr>";
+    include_once('perulangan1.php');
+    echo "<hr>";
+    include_once('perulangan2.php');
+    echo "<hr>";
+    include_once('perulangan3.php');
+    echo "<hr>";
+    include_once('perulangan4.php');
+    echo "<hr>";
+    include_once('perulangan5.php');
+    echo "<hr>";
+    include_once('perulangan6.php');
+    echo "<hr>";
+    include_once('array1.php');
+    echo "<hr>";
+    include_once('array2.php');
+    echo "<hr>";
+    include_once('array3.php');
+    echo "<hr>";
+    include_once('function1.php');
+    echo "<hr>";
+    include_once('function2.php');
+    echo "<hr>";
+ ?>
